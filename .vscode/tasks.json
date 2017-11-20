@@ -7,4 +7,5 @@
     "isShellCommand": true,
        "args": ["${file}"],
     "showOutput": "always"
+    // dfsadffdsfdas
 }
