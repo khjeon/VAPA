@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="http://218.39.195.11:10000/VAPA/logo.png"><br><br>
-</div>
+<div align="center"><img src="http://218.39.195.11:10000/VAPA/logo.png"></div>   
 
 # About
 **VAPA** is a software library for vessel porformance analysis using ship 
